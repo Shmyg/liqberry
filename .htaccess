@@ -1,0 +1,4 @@
+AddHandler application/x-httpd-php54 .php
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^liqberry.biz [NC]
+RewriteRule ^(.*)$ http://www.liqberry.biz/$1 [L,R=301]
