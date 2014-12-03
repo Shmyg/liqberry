@@ -1,0 +1,3887 @@
+
+
+@media screen and (max-width:1920px) and (max-height: 900px) {
+	.buttle {
+		width: 10%;
+		height: 45%;
+		top: 140px;
+	}
+	.bottom-bg {
+		position: absolute;
+		width: 1129px;
+		/*left: -45px;*/
+		top: 160px;
+	}
+
+	.more {
+		/*left: 9%;*/
+		top: 605px;
+	}
+	.more .title-menu {
+		font-size: 2.2em;
+	}
+
+	.berries.berries-bg-1 {
+		height: 83px;
+		background-size: 70%;
+	}
+
+	.berries.berries-bg-2 {
+		height: 73px;
+		background-size: 70%;
+	}
+
+	.berries.berries-bg-3 {
+		height: 77px;
+		background-size: 70%;
+	}
+
+	.haracteristik{
+		position: absolute;
+		top: 455px;
+		width: 43%;
+		/*left: 430px;*/
+		z-index: 5;
+	}
+
+
+	.haracteristik.blueberry {
+		top: 340px;
+		width: 32%;
+		left: 720px;
+
+	}
+
+	.haracteristik.cranberry {
+		top: 400px;
+		left: 590px;
+		width: 39%;
+	}
+
+	.left-wrap-block .more  {
+		top: 660px;
+	}
+
+	.content-right-wrap {
+		padding-left: 14px;
+	
+}	
+
+@media screen and (max-width:1600px) and (max-height: 900px) {
+
+
+	html {
+		height: 100%;
+	}
+
+	body {
+		height: 100%;
+	}
+	
+
+	 .wrapper {
+	    width: 100%;
+	    height: 100%;
+	} 
+	.wrapper_info {
+		min-height: 750px;
+	}
+
+	.wrapper-product {
+		min-height: 700px;
+	}
+	ul.accordion {
+		/*height: 100%*/
+	}
+
+	ul.accordion li.product {
+		height: 100%;
+	}
+
+	.left-sidebar {
+		height: auto;
+	}
+
+	.buttle {
+		width: 10%;
+		height: 45%;
+		left: 11%;
+		top: 50px;
+	}
+	.bottom-bg {
+		position: absolute;
+		width: 1129px;
+		left: -45px;
+		top: 60px;
+	}
+
+	.more {
+		left: 9%;
+		top: 505px;
+	}
+	.more .title-menu {
+		font-size: 2.2em;
+	}
+
+	.berries.berries-bg-1 {
+		height: 73px;
+		background-size: 65%;
+	}
+
+	.berries.berries-bg-2 {
+		height: 63px;
+		background-size: 65%;
+	}
+
+	.berries.berries-bg-3 {
+		height: 67px;
+		background-size: 65%;
+	}
+
+	.berries {
+		left: 10.2%
+	}
+	.haracteristik{
+		position: absolute;
+		top: 375px;
+		width: 43%;
+		left: 430px;
+		z-index: 5;
+	}
+
+
+	.haracteristik.blueberry {
+		top: 305px;
+		width: 32%;
+		left: 540px;
+
+	}
+
+	.haracteristik.cranberry {
+		top: 320px;
+		left: 470px;
+		width: 39%;
+	}
+
+	.haracteristik.blueberry ul li {
+		padding-top: 1px;
+		background: url("../images/bg-hr.png") no-repeat 0 5px;
+
+	}
+
+
+	.haracteristik ul li {
+		font-size: 1.1em;
+		background: url("../images/bg-hr.png") no-repeat 0 13px;
+		padding-left: 25px;
+		line-height: 20px;
+		padding-top: 10px;
+	}
+	.bottom-bg.bottom-bg-1{
+		background: url("../images/text-bg-1.png") no-repeat 0 0, url("../images/text-bg-1.png") no-repeat 0 0;
+	}
+
+	.bottom-bg.bottom-bg-2{
+		background: url("../images/text-bg-2.png") no-repeat 0 0, url("../images/text-bg-2.png") no-repeat 0 0;
+	}
+
+	.bottom-bg.bottom-bg-3{
+		background: url("../images/text-bg-3.png") no-repeat 0 0, url("../images/text-bg-3.png") no-repeat 0 0;
+	}
+	ul.accordion li.product {
+		background: url("../images/shadow.png") no-repeat left 9px;
+		background-size: contain;
+		padding-left: 25px;
+		margin-left: -25px;
+	}
+	.nav-menu {
+		padding-top: 70px
+	}
+
+	.nav-menu li {
+		padding-bottom: 18px
+	}
+
+	.nav-menu li a {
+		text-decoration: none;
+		color: #6f824b;
+		font-size: 1.6em;
+		padding-left: 7%;
+	}
+
+	.nav-menu li a:hover {
+		/*color: #0068b3;*/
+		/*background: url("../images/menu-act.png") 0 6px no-repeat;*/
+	}
+
+	.nav-menu li.active a {
+		/*background: url("../images/menu-act.png") 0 6px no-repeat;*/
+	}
+
+	.socio {
+		padding-top: 18%;
+		padding-left: 20%;
+	}
+
+	.socio li {
+		display: inline-block;
+		background: url("../images/socio-sprite-resize.png") no-repeat;
+		width: 34px;
+		height: 35px;
+	}
+
+	.socio li.fb {
+		background-position: -34px 0;
+	}
+
+	.socio li.google {
+		background-position: -67px 0;
+	}
+
+	.socio li.youtube {
+		background-position: -101px 0;
+	}
+
+	.copyright {
+		margin-top: 10%;
+	}
+
+	.copyright p {
+		font-size: 0.9em;
+	}
+
+	.content-right-wrap {
+		padding-left: 13px;
+	}
+
+	.company-top {
+		width: 100%;
+		max-height: 40%;
+	}
+
+	.company-top img{
+		display: block;
+		max-height: 100%;
+		width: 100%;
+	}
+
+	.company-bottom{
+		height: 60%;
+		width: 100%;
+		position: relative;
+
+	}
+
+	.company-top.diabets {
+		min-height: 50%
+
+	}
+	.company-top.diabets img{
+	}
+	.company-bottom.diabets {
+		max-height: 50%;
+		max-width: 100%;
+		position: relative;
+	}
+
+	.text-wrap-block {
+		position: absolute;
+		top: 35px;
+		left: 35px
+	}
+	.company-bottom img{
+		max-height: 100%;
+		width: 100%;
+		display: block;
+	}
+
+	.title-company .text-title {
+		font-size: 1.2em;
+	}
+
+	.inform-text {
+		margin-top: 30px;
+	}
+
+	.inform-text p {
+		font-size: 1.2em;
+	}
+
+	.diplome{
+	margin-top: 35px;
+	}
+
+
+	.diplome li span {
+		display: inline-block;
+		height: 150px;
+		width: 120px;
+		
+	}
+
+	.diplome .diplome1_icon {
+		background: url("../images/diplome-1.png") no-repeat;
+		background-size: 94%;
+	}
+
+	.diplome .diplome2_icon {
+		background: url("../images/diplome-2.png") no-repeat;
+		background-size: 94%;
+	}
+
+	.diplome .diplome3_icon {
+		background: url("../images/diplome-3.png") no-repeat;
+		background-size: 94%;
+	}
+
+	.diplome .diplome4_icon {
+		background: url("../images/diplome-4.png") no-repeat;
+		background-size: 94%;
+	}
+
+	.company-bottom.contact-bottom {
+		max-height: 60%;
+		height: 60%;
+		max-height: 350px;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3
+
+	}
+
+	.contact-info{
+		position: absolute;
+		top: 30px;
+		left: 80px;
+		padding-right: 150px;
+
+	}
+	.contact-info h3{
+		text-align: left;
+		font-size: 30px;
+		text-transform: uppercase;
+		padding-top: 25px;
+		padding-bottom: 15px;
+		color: #def6c2;
+	}
+	.contact-info p{
+		color: #fff;
+		font-size: 1.5em;
+		margin-top: 20px;
+		line-height: 1.7em;
+	}
+	.adress{
+		margin-top: 30px;
+
+	}
+	.contact-info .adress p{
+		margin-top: 8px;
+		color: #def6c2;
+		font-size: 1.3em;
+		font-family: 'Myriad Pro';
+		line-height: 1em;
+	}
+	.contact-info  p.title-adress{
+		margin-bottom: 20px;
+		font-size: 1.4em;
+	}
+
+	.scroll-pane{
+	 height: 235px;
+	 padding-right: 20px;
+	 outline: none;
+
+	}
+
+	.scroll-pane.left-sidebar {
+		height: 100%
+	}
+
+	.left-block p, .right-block p {
+		font-size: 1.3em;
+		line-height: 25px;
+		margin-top: 25px;
+	}
+
+	.bottom-bg-mini.prod_cowberry {
+		background-size: contain;
+	}
+
+	.bottom-bg-mini.prod_cranberry {
+		background-size: contain;
+	}
+
+	.company-top.img-resize {
+		max-width: 100%;
+		max-height: 40%
+	}
+
+	.company-top.img-resize img{
+		max-height: none;
+		max-width:  100%;
+		height: auto;
+	}	
+	.inform-text.inform-text-life {
+		margin-top: 20px;
+	}
+
+	.inform-text.inform-text-life p {
+		font-size: 1.1em;
+		line-height: 1.7em;
+		margin-top: 20px;
+	}
+
+	.info-item{
+		width: 350px;
+		display: block;
+		float: left;
+		margin-right: 25px;
+		margin-top: 20px;
+	}
+
+	.prod-quality {
+	width: 345px;
+	margin-right: 0;
+	}
+
+	.health-research {
+		width: 350px;
+	}
+
+	.info-item h2 {
+		font-size: 1.3em;
+	}
+
+	.mission-img-resize .text-wrap-block {
+		top: 25px
+	}
+
+	.info-item p {
+		font-size: 1.1em;
+		line-height: 1.55em;
+		margin-top: 20px;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 13px
+	}
+
+	
+
+	.left-wrap-block .buttle {
+		width: 29%;
+		height: 38%;
+		position: absolute;
+		top: 160px;
+		left: 35%;
+		z-index: 2;
+	}
+
+	.left-wrap-block .buttle img {
+		width: 100%
+	}
+
+	.bottom-bg-mini {
+		position: absolute;
+		top: 410px;
+		left: 0;
+		height: 420px;
+		width: 100%;
+		z-index: 3;
+		background: url("../images/bot-min-bg-1.png") no-repeat;
+		background-size: contain;
+	}
+
+
+	.left-wrap-block .berries {
+		width: 100%;
+		height: 70px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 23%;
+		z-index: 5;
+		background: url("../images/berries-2.png") no-repeat;
+		background-size: 45%;
+	}
+	.left-wrap-block .berries.berries-bg-1 {
+		background: url("../images/berries-1.png") no-repeat 0 0;
+		background-size: 45%;
+		height: 75px;
+	}	
+	.left-wrap-block .berries.berries-bg-2 {
+		background: url("../images/berries-2.png") no-repeat 0 0;
+		background-size: 45%;
+		height: 65px;
+	}	
+	.left-wrap-block .berries.berries-bg-3 {
+		background: url("../images/berries-3.png") no-repeat 0 0;
+		background-size: 45%;
+		height: 65px;
+	}	
+
+	.left-wrap-block .more {
+		left: 29%;
+		top:540px;
+	}
+
+	.advantage {
+		margin-top: 30px;
+		width: 50%;
+		padding: 0 2%;
+	}
+
+
+	.advantage p {
+		font-size: 1.3em;
+		margin-top: 10px;
+	}
+
+	.advantage.advantage-justify{
+		margin-top: 25px;
+		width: 100%
+
+	}
+
+	#change_text .our_solution p {
+	font-size: 1.2em;
+	line-height: 1.4em;
+	}
+
+	 #change_text span.nav_button_glob.link {
+		top: 105%;
+	}
+
+
+	.company-top.company{
+		height: 38%;
+	}
+
+	.company-top.company img{
+		display: block;
+		min-height: 100%;
+		max-height:0;
+		width: auto;
+	}
+
+	.company-bottom.company{
+		height: 62%;
+		max-width: 100%;
+		position: relative;
+
+	}
+
+	.diabets-bottom-block .title-company{
+		height: 90px;
+
+	}
+
+	.diabets-bottom-block .title-company .text-title {
+		font-size: 1.1em;
+		line-height: 1.5em;
+	}
+
+	.diabets-bottom-block .inform-text {
+		margin-top: 10px;
+	}
+
+	.diabets-bottom-block .inform-text p{
+		line-height: 1.5em;
+	}
+
+	h2.nav_button_glob {
+		line-height: 50px;
+	}
+	h2.nav_button_sol {
+		background-position: left top 60px;
+		line-height: 110px;
+	}
+}
+
+@media screen and (max-width:1600px) and (max-height: 800px) {
+	.content-right-wrap.product-cont {
+		padding-left: 11px;
+	}
+	.content-right-wrap {
+		padding-left: 12px;
+	}
+}
+@media screen and (max-width:1600px) and (max-height: 710px) {
+	.buttle {
+		width: 10%;
+		height: 35%;
+		left: 11%;
+		top: 20px;
+	}
+	.bottom-bg {
+		position: absolute;
+		width: 1129px;
+		left: -45px;
+		top: 50px;
+	}
+
+	.more {
+		left: 9%;
+		top: 460px;
+	}
+	.more .title-menu {
+		font-size: 2.2em;
+	}
+
+	.berries.berries-bg-1 {
+		height: 83px;
+		background-size: 70%;
+	}
+
+	.berries.berries-bg-2 {
+		height: 73px;
+		background-size: 70%;
+	}
+
+	.berries.berries-bg-3 {
+		height: 77px;
+		background-size: 70%;
+	}
+
+	.berries {
+		left: 10%
+	}
+	ul.accordion li.product {
+	padding-left: 23px;
+	margin-left: -23px;
+	}
+}	
+@media screen and (max-width:1600px) and (max-height: 650px) {
+	.content-right-wrap.product-cont {
+		padding-left: 9px;
+	}
+	.content-right-wrap {
+		padding-left: 9px;
+	}
+}
+@media screen and (max-width:1440px) and (max-height: 900px) {
+	.buttle {
+		left: 10%;
+		top: 85px;
+	}
+	.bottom-bg {
+		top: 95px;
+		left: -55px;
+	}
+	
+	.more {
+		left: 8%;
+		top: 540px;
+	}
+
+	.berries {
+		left: 8.5%
+	}
+
+	.berries.berries-bg-1 {
+		height: 73px;
+		background-size: 62%;
+	}
+
+	.berries.berries-bg-2 {
+		height: 64px;
+		background-size: 62%;
+	}
+
+	.berries.berries-bg-3 {
+		height: 70px;
+		background-size: 62%;
+	}
+
+	.haracteristik {
+		top: 410px;
+		width: 36%;
+		left: 400px;
+		z-index: 5;
+	}
+
+
+	.haracteristik ul li {
+		font-size: 1.1em;
+		background: url("../images/bg-hr.png") no-repeat 0 8px;
+		padding-left: 25px;
+		line-height: 1.2em;
+		padding-top: 10px;
+	}
+
+	.haracteristik.blueberry {
+		top: 355px;
+		width: 32%;
+		left: 470px;
+
+	}
+
+	.haracteristik.cranberry {
+		top: 385px;
+		left: 420px;
+		width: 39%;
+	}
+
+	.haracteristik.blueberry ul li {
+		padding-top: 5px;
+		background: url("../images/bg-hr.png") no-repeat 0 5px;
+
+	}
+
+
+
+	.nav-menu li a:hover {
+		/*color: #0068b3;*/
+		/*background: url("../images/menu-act.png") 0 6px no-repeat;*/
+	}
+
+	.nav-menu li.active a {
+		/*background: url("../images/menu-act.png") 0 6px no-repeat;*/
+	}
+
+	.text-wrap-block {
+		position: absolute;
+		top: 30px;
+		left: 35px;
+		padding-right: 35px;
+	}
+
+	.company-top {
+		width: 100%;
+		max-height: 100%;
+	}
+
+	.company-top img{
+		display: block;
+		max-height: 100%;
+		width: 100%;
+	}
+
+	.company-bottom{
+		height: 60%;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+	.company-bottom.diabets {
+	height: 50%
+	}
+
+	.company-bottom img{
+		max-height: 100%;
+		max-width: 100%;
+		display: block;
+	}
+
+	.content-right-wrap{
+		background: url("../images/shadow-big-1.png") no-repeat left top;
+		padding-left: 13px;
+		background-size: contain;
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+
+	.diplome{
+		margin-top: 25px;
+	}
+
+	
+	.left-block .scroll-pane, .right-block .scroll-pane {
+	 	height: 265px;
+	}
+
+	.right-block {
+		max-width: 48%;
+	} 
+
+	.inform-text.inform-text-life {
+		margin-top: 15px;
+	}
+
+	.inform-text.inform-text-life p {
+		font-size: 1.1em;
+		line-height: 1.55em;
+		margin-top: 14px;
+	}
+
+	.company-bottom.mission-img-resize {
+	height: 50%;
+	position: absolute;
+	bottom: 0;
+	}
+
+	.title-company h2 {
+		white-space: nowrap;
+	}
+
+	.info-item{
+		width: 305px;
+		display: block;
+		float: left;
+		margin-right: 30px;
+		margin-top: 20px;
+	}
+
+	.prod-quality {
+	width: 290px;
+	margin-right: 0;
+	}
+
+	.health-research {
+		width: 300px;
+	}
+
+	.info-item h2 {
+		font-size: 1.4em;
+	}
+
+	.mission-img-resize .text-wrap-block {
+		top: 20px
+	}
+
+	.info-item p {
+		font-size: 1.1em;
+		line-height: 1.7em;
+		margin-top: 15px;
+	}
+
+	.bottom-bg-mini {
+		position: absolute;
+		top: 440px;
+		left: 0;
+		height: 420px;
+		width: 100%;
+		z-index: 3;
+		background: url("../images/bot-min-bg-1.png") no-repeat;
+		background-size: contain;
+	}
+
+	.left-wrap-block .buttle {
+		width: 32%;
+		height: 38%;
+		position: absolute;
+		top: 23%;
+		left: 35%;
+		z-index: 2;
+	}
+
+	.left-wrap-block .berries {
+		height: 62px;
+
+	}
+	.left-wrap-block .more {
+		top: 76%;
+	}
+
+	.contact-info{
+		position: absolute;
+		top: 20px;
+		left: 80px;
+		padding-right: 150px;
+
+	}
+
+	.adress{
+		margin-top: 30px;
+
+	}
+
+	.title-adress {
+		margin-bottom: 20px;
+	}
+
+	#change_text .our_solution p {
+	font-size: 1.2em;
+	line-height: 1.45em;
+	}
+
+	.advantage {
+		margin-top: 20px;
+	}
+
+	.advantage.advantage-justify{
+		margin-top: 15px;
+
+	}
+
+	.advantage p {
+		font-size: 1.2em;
+	}	
+
+	.diabets-bottom-block .title-company .text-title {
+		font-size: 1em;
+		padding-left: 10px;
+		line-height: 1.5em;
+	
+	}
+
+	h2.nav_button_glob {
+		margin-right: 170px;
+	}
+	.diabets-bottom-block .inform-text p {
+		line-height: 1.4em;
+	}
+
+	h2.nav_button_sol {
+		margin-right: 185px;
+	}
+		
+
+}
+
+@media screen and (max-width:1440px) and (max-height: 800px) {
+	.content-right-wrap.product-cont {
+		padding-left: 11px;
+	}
+	.content-right-wrap {
+		padding-left: 12px;
+	}
+}
+
+@media screen and (max-width:1440px) and (max-height: 740px) {
+
+	
+	.buttle {
+		width: 10%;
+		height: 35%;
+		/*left: 11%;*/
+		top: 20px;
+	}
+	.bottom-bg {
+		position: absolute;
+		width: 1129px;
+		/*left: -45px;*/
+		top: 50px;
+	}
+
+	.more {
+		/*left: 9%;*/
+		top: 460px;
+	}
+	.more .title-menu {
+		font-size: 2.2em;
+	}
+	.haracteristik{
+		position: absolute;
+		top: 385px;
+		width: 43%;
+		/*left: 430px;*/
+		z-index: 5;
+	}
+
+
+	.haracteristik.blueberry {
+		top: 310px;
+		width: 32%;
+		left: 460px;
+
+	}
+
+	.haracteristik.cranberry {
+		top: 340px;
+		left: 400px;
+		width: 39%;
+	}
+
+
+
+}	
+@media screen and (max-width:1366px) {
+	.wrapper_info {
+		min-height: 600px;
+	}
+
+	.wrapper-product {
+		min-height: 600px;
+	}
+	.buttle{
+		width: 12%;
+		height: 48%;
+		position: absolute;
+		left: 10%!important;
+		top: 100px;
+		z-index: 2;
+	}
+	.buttle img {
+		max-width: 70%
+	}
+
+	.bottom-bg.bottom-bg-1{
+		background: url("../images/text-bg-1.png") no-repeat 0 0, url("../images/text-bg-1.png") no-repeat 0 0;
+	}
+
+	.bottom-bg.bottom-bg-2{
+		background: url("../images/text-bg-2.png") no-repeat 0 0, url("../images/text-bg-2.png") no-repeat 0 0;
+	}
+
+	.bottom-bg.bottom-bg-3{
+		background: url("../images/text-bg-3.png") no-repeat 0 0, url("../images/text-bg-3.png") no-repeat 0 0;
+	}
+
+	.bottom-bg {
+		position: absolute;
+		top: 0;
+		width: 100%;
+		height: 743px;
+		left: -7%;
+		z-index: 3;
+	}
+
+	.more .title-menu {
+		display: block;
+		color: #fff;
+		text-transform: uppercase;
+		font-size: 1.8em;
+		line-height: 1.2em;
+		padding-bottom: 20px;
+	}
+
+    .more {
+	    text-align: center;
+		position: absolute;
+		top: 415px;
+		left: 6%;
+		z-index: 5;
+		height: 15%;
+		width: 17%;
+    }
+
+	.more .next  {
+		width: 28px;
+		height: 28px;
+		background: url("../images/next-resize.png") 0 0 no-repeat;
+		display: inline-block;
+	}
+
+    .berries.berries-bg-1 {
+		background: url("../images/berries-1.png") no-repeat 0 0;
+		height: 70px;
+		background-size: 60%
+	}
+
+	.berries.berries-bg-2{
+		background: url("../images/berries-2.png") no-repeat 0 0;
+		height: 60px;
+		background-size: 60%
+	}
+
+	.berries.berries-bg-3{
+		background: url("../images/berries-3.png") no-repeat 0 0;
+		height: 60px;
+		background-size: 60%
+	}
+
+	.berries {
+		width: 23%;
+		height: 105px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 8%;
+		z-index: 5;
+	}
+
+	.bg_description a img {
+		width: 15%;
+		max-width: 15%;
+		height: auto;
+	}
+
+	.haracteristik {
+		position: absolute;
+		top: 325px;
+		width: 30%;
+		left: 31%;
+		z-index: 5;
+	}
+
+	.haracteristik.blueberry {
+		width: 28%;
+		left: 40%;
+		top: 270px;
+	}
+
+	.haracteristik.cranberry {
+		width: 30%;
+		left: 36%;
+		top: 290px;
+	}
+
+	.haracteristik ul li {
+		font-size: 1em;
+		background: url("../images/bg-hr.png") no-repeat 0 5px;
+		display: block;
+		padding-left: 25px;
+		line-height: 1.3em;
+		padding-top: 7px;
+	}
+
+	ul.accordion li.product {
+		float: left;
+		width: 33%;
+		height: 100%;
+		display: block;
+		position: relative;
+		overflow: hidden;
+		cursor: pointer;
+		background: url("../images/shadow.png") no-repeat left 49px;
+		background-size: contain;
+		padding-left: 22px;
+		margin-left: -22px;
+	}
+
+	.lang {
+		margin-top: 22px
+	}
+
+	.lang li a {
+		font-size: 1.2em;
+	}
+
+	.logo {
+		margin-top: 22px
+	}
+
+	.logo img {
+		max-width: 70%
+	}
+
+	.nav-menu {
+		padding-top: 70px
+	}
+
+	.nav-menu li {
+		padding-bottom: 18px
+	}
+
+	.nav-menu li a {
+		text-decoration: none;
+		color: #6f824b;
+		font-size: 1.3em;
+		padding-left: 7%;
+	}
+
+
+	.socio {
+		padding-top: 11%;
+		padding-left: 20%;
+	}
+
+	.socio li {
+		display: inline-block;
+		background: url("../images/socio-sprite-resize.png") no-repeat;
+		width: 34px;
+		height: 35px;
+	}
+
+	.socio li.fb {
+		background-position: -34px 0;
+	}
+
+	.socio li.google {
+		background-position: -67px 0;
+	}
+
+	.socio li.youtube {
+		background-position: -101px 0;
+	}
+
+	.copyright {
+		margin-top: 10%;
+	}
+
+	.copyright p {
+		font-size: 0.9em
+	}
+
+	.text-wrap-block {
+		position: absolute;
+		top: 20px;
+		left: 35px;
+		padding-right: 35px;
+	}
+
+	.company-top {
+		width: 100%;
+		max-height: 100%;
+	}
+
+	.company-top img{
+		display: block;
+		max-height: 100%;
+		width: 100%;
+	}
+	.company-top.company img {
+
+		display: block;
+		min-height: 100%;
+		max-height: none; 
+		width: 100%;
+	}
+
+
+	.company-bottom{
+		height: 60%;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+
+	.company-bottom.diabets {
+		height: 50%
+	}
+
+	.company-bottom img{
+		max-height: 100%;
+		max-width: 100%;
+		display: block;
+	}
+
+	.content-right-wrap{
+		padding-left: 11px;
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+
+	.diplome{
+		margin-top: 15px;
+	}
+
+	
+	.title-company h2 {
+		font-size: 1.9em;
+	}
+
+	.title-company .text-title {
+		font-size: 1.2em;
+		padding-right: 30px;
+	}
+
+	.inform-text {
+		margin-top: 20px;
+	}
+
+	.inform-text p {
+		font-size: 1.1em;
+		line-height: 1.3em;
+	}
+
+
+	.diplome li span {
+		display: inline-block;
+		height: 143px;
+		width: 108px;
+	}
+
+	.diplome .diplome1_icon {
+		background: url("../images/diplome-1-resize.png") no-repeat;
+	}
+
+	.diplome .diplome2_icon {
+		background: url("../images/diplome-2-resize.png") no-repeat;
+	}
+
+	.diplome .diplome3_icon {
+		background: url("../images/diplome-3-resize.png") no-repeat;
+	}
+
+	.diplome .diplome4_icon {
+		background: url("../images/diplome-4-resize.png") no-repeat;
+	}
+
+	.company-bottom.contact-bottom {
+		max-height: 60%;
+		height: 60%;
+		max-height: 300px;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+
+	.contact-info{
+		position: absolute;
+		top: 15px;
+		left: 80px;
+		padding-right: 150px;
+
+	}
+	.contact-info h3{
+		text-align: left;
+		font-size: 2em;
+		text-transform: uppercase;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		color: #def6c2;
+	}
+	.contact-info p{
+		color: #fff;
+		font-size: 1.3em;
+		margin-top: 10px;
+	}
+	.adress{
+		margin-top: 20px;
+
+	}
+	.contact-info .adress p{
+		margin-top: 0;
+		color: #def6c2;
+		font-size: 1.2em;
+		font-family: 'Myriad Pro';
+	}
+	.title-adress{
+		margin-bottom: 15px;
+	}
+
+	.left-block .scroll-pane, .right-block .scroll-pane {
+	 	height: 200px;
+	}
+
+		.left-block p, .right-block p {
+		font-size: 1.2em;
+		line-height: 1.4em;
+		margin-top: 15px;
+	}
+
+	.left-block h3, .right-block h3 {
+		text-align: center;
+		font-size: 2em;
+		line-height: 2em;
+		text-transform: uppercase;
+		padding-top: 15px;
+		padding-bottom: 0;
+	}
+
+	.inform-text.inform-text-life {
+		margin-top: 15px;
+	}
+
+	.inform-text.inform-text-life p {
+		font-size: 1em;
+		line-height: 1.6em;
+		margin-top: 12px;
+	}
+
+	.company-bottom.mission-img-resize {
+		height: 45%;
+		position: absolute;
+		bottom: 0;
+	}
+
+	.info-item{
+		width: 300px;
+		display: block;
+		float: left;
+		margin-right: 30px;
+		margin-top: 5px;
+	}
+
+	.prod-quality {
+		width: 264px;
+		margin-right: 0;
+	}
+
+	.health-research {
+		width: 295px;
+	}
+
+	.info-item h2 {
+		font-size: 1.2em;
+	}
+
+	.mission-img-resize .text-wrap-block {
+		top: 15px;
+		padding-right: 0;
+	}
+
+	.info-item p {
+		font-size: 1em;
+		line-height: 1.4em;
+		margin-top: 10px;
+	}
+
+	.product-depiction {
+		top: 30px;
+	}
+
+	.bottom-bg-mini {
+		position: absolute;
+		top: 350px;
+		left: 0;
+		height: 420px;
+		width: 100%;
+		z-index: 3;
+		background: url("../images/bot-min-bg-1.png") no-repeat;
+		background-size: contain;
+	}
+
+	.left-wrap-block .buttle {
+		width: 44%;
+		height: 38%;
+		position: absolute;
+		top: 18%;
+		left: 33%!important;
+		z-index: 2;
+	}
+
+	.left-wrap-block .berries. {
+		height: 68px;
+
+	}
+	.left-wrap-block .berries.berries-bg-1 {
+		height: 68px;
+	}
+	.left-wrap-block .more {
+		top: 470px;
+		left: 26%;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 11px;
+	}
+
+	.advantage {
+		margin-top: 20px;
+	}
+
+	.advantage p {
+		font-size: 1em;
+		margin-top: 10px;
+	}
+
+	.advantage span{
+		margin-bottom: 15px;
+	}
+
+	.advantage.advantage-justify {
+		margin-top: 15px;
+	}
+	#change_text p {
+		font-size: 1.2em;
+		line-height: 1.3em;
+	}
+	.text-wrap-block.change_text {
+		top: 10px;
+	}
+
+	#change_text .our_solution p {
+	font-size: 1.1em;
+	line-height: 1.2em;
+	}
+
+	.our_solution .content > div{
+		margin-top: -10px;
+	}
+
+	.diabets-bottom-block .title-company .text-title {
+		font-size: 0.9em;
+	}
+
+	.diabets-bottom-block .title-company {
+		height: auto;
+	}
+
+	.diabets-bottom-block .inform-text p {
+		font-size: 1.1em;
+		line-height: 1.25em;
+	}
+
+	.diabets-bottom-block .inform-text {
+		margin-top: 5px;
+	}
+	h2.nav_button_sol {
+		font-size: 2em;
+		margin-right: 180px;
+		line-height: 60px;
+		background-position: left top 30px;
+	}
+
+}
+
+
+@media screen and (max-width:1366px) and (max-height: 580px) {
+
+	.buttle{
+		width: 12%;
+		height: 48%;
+		position: absolute;
+		left: 10%!important;
+		top: 90px;
+		z-index: 2;
+	}
+	.buttle img {
+		max-width: 70%
+	}
+
+	.bottom-bg.bottom-bg-1{
+		background: url("../images/text-bg-1.png") no-repeat 20% 20%, url("../images/text-bg-1.png") no-repeat 20% 20%;
+	}
+
+	.bottom-bg.bottom-bg-2{
+		background: url("../images/text-bg-2.png") no-repeat 0 0, url("../images/text-bg-2.png") no-repeat 0 0;
+	}
+
+	.bottom-bg.bottom-bg-3{
+		background: url("../images/text-bg-3.png") no-repeat 0 0, url("../images/text-bg-3.png") no-repeat 0 0;
+	}
+
+	.bottom-bg {
+		position: absolute;
+		top: 0;
+		width: 100%;
+		height: 743px;
+		left: -7%;
+		z-index: 3;
+	}
+
+	.more .title-menu {
+		padding-bottom: 10px;
+	}
+
+    .more {
+	    text-align: center;
+		position: absolute;
+		top: 405px;
+		left: 6%;
+		z-index: 5;
+		height: 15%;
+		width: 17%;
+    }
+
+	.more .next  {
+		width: 28px;
+		height: 28px;
+		background: url("../images/next-resize.png") 0 0 no-repeat;
+		display: inline-block;
+	}
+
+    .berries.berries-bg-1 {
+		background: url("../images/berries-1.png") no-repeat 0 0;
+		height: 55px;
+		background-size: 50%
+	}
+
+	.berries.berries-bg-2{
+		background: url("../images/berries-2.png") no-repeat 0 0;
+		height: 47px;
+		background-size: 50%
+	}
+
+	.berries.berries-bg-3{
+		background: url("../images/berries-3.png") no-repeat 0 0;
+		height: 50px;
+		background-size: 50%
+	}
+
+	.berries {
+		width: 23%;
+		height: 105px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 8%;
+		z-index: 5;
+	}
+
+	.bg_description a img {
+		width: 15%;
+		max-width: 15%;
+		height: auto;
+	}
+
+	
+
+}
+@media screen and (max-width:1280px) and (max-height: 1024px) {
+
+	.wrapper_info {
+		min-height: 800px;
+	}
+	.wrapper-product {
+		min-height: 700px;
+	}
+
+	.buttle {
+		left: 8%!important;
+		top: 175px;
+		width: 30%;
+		height: 78%;
+	}
+	.bottom-bg {
+		top: 185px;
+		left: -7.5%;
+	}
+	.haracteristik {
+		top: 510px;
+		width: 33%;
+		left: 370px;
+		z-index: 5;
+	}
+
+
+	.haracteristik.blueberry {
+		width: 25%;
+		left: 40%;
+		top: 450px;
+	}
+
+	.haracteristik.cranberry {
+		width: 30%;
+		left: 36%;
+		top: 470px;
+	}
+
+	.haracteristik.blueberry ul li {
+		background: url("../images/bg-hr.png") no-repeat 0 4px;
+		padding-top: 6px;
+	}
+
+
+	.more {
+		left: 6%;
+		top: 640px;
+	}
+
+
+	.berries {
+		left: 7.5%
+	}
+
+	.berries.berries-bg-1 {
+		height: 67px;
+		background-size: 56%;
+	}
+
+	.berries.berries-bg-2 {
+		height: 58px;
+		background-size: 56%;
+	}
+
+	.berries.berries-bg-3 {
+		height: 63px;
+		background-size: 56%;
+	}
+
+	.nav-menu li a:hover {
+		/*color: #0068b3;*/
+		/*background: url("../images/menu-act.png") 0 4px no-repeat;*/
+	}
+
+	.nav-menu li.active a {
+		/*background: url("../images/menu-act.png") 0 4px no-repeat;*/
+	}
+	.copyright {
+		margin-top: 50px;
+	}
+	.socio {
+		padding-top: 85%;
+		padding-left: 20%;
+	}
+
+	.company-top {
+		max-width: 100%;
+		max-height: 80%;
+	}
+
+	.company-top img {
+		height: 100%;
+		width: auto;
+	}
+
+	.company-bottom{
+		height: 62%;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+
+	.company-bottom.company{
+		height: 75%;
+	}
+	.company-top.company {
+		height: 25%;
+	}
+	.company-top.company img {
+		height: auto;
+		min-height: 100%
+	}
+	.company-top.img-resize img {
+		max-height: none;
+		max-width: 100%;
+		height: auto;
+		min-height: 0;
+
+	}	
+
+	.company-bottom.diabets {
+		min-height: 50%
+	}
+
+	.company-bottom img{
+		height: 100%;
+		max-width: 100%;
+		display: block;
+	}
+
+	.text-wrap-block {
+		position: absolute;
+		top: 55px;
+		left: 35px;
+		padding-right: 35px;
+	}
+
+	.content-right-wrap{
+		padding-left: 11px;
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+
+	.title-company h2 {
+		font-size: 1.9em;
+		white-space: nowrap;
+	}
+
+	.title-company .text-title {
+		font-size: 1.3em;
+	}
+
+	.inform-text {
+		margin-top: 50px;
+	}
+
+	.inform-text p {
+		font-size: 1.3em;
+		line-height: 1.3em;
+	}
+
+	.diplome {
+		margin-top: 45px;
+	}
+
+	.diplome li span {
+		display: inline-block;
+		height: 170px;
+		width: 120px;
+		
+	}
+
+	.diplome .diplome1_icon {
+		background: url("../images/diplome-1.png") no-repeat;
+		background-size: 100%;
+	}
+
+	.diplome .diplome2_icon {
+		background: url("../images/diplome-2.png") no-repeat;
+		background-size: 100%;
+	}
+
+	.diplome .diplome3_icon {
+		background: url("../images/diplome-3.png") no-repeat;
+		background-size: 100%;
+	}
+
+	.diplome .diplome4_icon {
+		background: url("../images/diplome-4.png") no-repeat;
+		background-size: 100%;
+	}
+
+	.company-bottom.contact-bottom {
+		max-height: 60%;
+		height: 60%;
+		max-height: 400px;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+
+	.contact-info{
+		position: absolute;
+		top: 30px;
+		left: 80px;
+		padding-right: 150px;
+
+	}
+	.contact-info h3{
+		text-align: left;
+		font-size: 2.3em;
+		text-transform: uppercase;
+		padding-top: 20px;
+		padding-bottom: 30px;
+		color: #def6c2;
+	}
+	.contact-info p{
+		color: #fff;
+		font-size: 1.6em;
+		margin-top: 10px;
+	}
+	.adress{
+		margin-top: 30px;
+
+	}
+	.contact-info .adress p{
+		margin-top: 10px;
+		color: #def6c2;
+		font-size: 1.4em;
+		font-family: 'Myriad Pro';
+	}
+	.title-adress{
+		margin-bottom: 40px;
+	}
+
+	.right-block {
+		max-width: 46%;
+	} 
+
+	.left-block .scroll-pane, .right-block .scroll-pane {
+	 	height: 315px;
+	}
+
+	.left-block h3, .right-block h3 {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	
+		.inform-text.inform-text-life {
+		margin-top: 15px;
+	}
+
+	.inform-text.inform-text-life p {
+		font-size: 1.1em;
+		line-height: 1.7em;
+		margin-top: 15px;
+	}
+
+	.company-bottom.mission-img-resize {
+		height: 63%;
+		position: absolute;
+		bottom: 0;
+	}
+
+	.info-item{
+		width: 280px;
+		display: block;
+		float: left;
+		margin-right: 30px;
+		margin-top: 50px;
+	}
+
+	.prod-quality {
+		width: 245px;
+		margin-right: 0;
+	}
+
+	.health-research {
+		width: 270px;
+	}
+
+	.info-item h2 {
+		font-size: 1.2em;
+	}
+
+	.mission-img-resize .text-wrap-block {
+		top: 50px
+	}
+
+	.info-item p {
+		font-size: 1.2em;
+		line-height: 1.7em;
+		margin-top: 40px;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 14px;
+	}
+
+	.bottom-bg-mini {
+		position: absolute;
+		top: 600px;
+		left: 0;
+		height: 420px;
+		width: 100%;
+		z-index: 3;
+		background: url("../images/bot-min-bg-1.png") no-repeat;
+		background-size: contain;
+	}
+
+	.left-wrap-block .buttle {
+		width: 55%;
+		height: 58%;
+		position: absolute;
+		top: 34%;
+		left: 30% !important;
+		z-index: 2;
+	}
+
+	.left-wrap-block .more {
+		top: 82%;
+	}
+
+	.left-wrap-block .berries {
+		width: 100%;
+		height: 65px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 23%;
+		z-index: 5;
+		background: url("../images/berries-2.png") no-repeat;
+		background-size: 50%;
+	}
+
+	.left-wrap-block .berries.berries-bg-3 {
+		background-size: 50%;
+		height: 65px;
+	}
+
+	.left-wrap-block .berries.berries-bg-1 {
+		background-size: 50%;
+		height: 65px;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 11px;
+	}
+
+	.advantage {
+		margin-top: 40px;
+		width: 43%;
+		padding: 0 10px;
+	}
+
+	.advantage p {
+		font-size: 1.2em;
+		margin-top: 30px;
+	}
+
+	.advantage.advantage-justify {
+		margin-top: 60px;
+	}
+
+	.advantage span {
+		margin-bottom: 20px;
+	}
+
+	#change_text p {
+		color: white;
+		font-size: 1.6em;
+		line-height: 1.6em;
+		margin-top: 10px;
+		text-align: justify;
+	}
+
+	.our_solution {
+	position: absolute;
+	top:0;
+	}
+
+	#change_text .our_solution p {
+		font-size: 1.3em;
+		line-height: 1.45em;
+	}
+
+	.diabets-bottom-block .inform-text {
+		margin-top: 20px;
+	}
+
+	h2.nav_button_sol {
+		margin-top: 30px;
+	}
+}
+
+
+
+
+@media screen and (max-width:1280px) and (max-height: 800px) {
+
+
+	.wrapper_info {
+		min-height: 650px;
+	}
+	.wrapper-product {
+		min-height: 600px;
+	}
+	.buttle {
+		left: 10%!important;
+		top: 155px;
+		width: 20%;
+		height: 58%;
+	}
+
+	.buttle img {
+		max-width: 40%;
+	}
+
+	.bottom-bg {
+		top: 35px;
+		left: -7.5%;
+	}
+	.haracteristik {
+		top: 360px;
+		width: 33%;
+		left: 370px;
+		z-index: 5;
+	}
+
+
+	.haracteristik.blueberry {
+		width: 26%;
+		left: 40%;
+		top: 300px;
+	}
+
+	.haracteristik.cranberry {
+		width: 30%;
+		left: 36%;
+		top: 330px;
+	}
+
+	
+	.haracteristik.blueberry ul li {
+		background: url("../images/bg-hr.png") no-repeat 0 2px;
+	}
+
+	.haracteristik ul li {
+		font-size: 1em;
+		background: url("../images/bg-hr.png") no-repeat 0 5px;
+		display: block;
+		padding-left: 25px;
+		line-height: 1.3em;
+		padding-top: 7px;
+	}
+
+	.more {
+		left: 6%;
+		top: 470px;
+	}
+
+
+	.berries {
+		left: 7.6%
+	}
+
+	.berries.berries-bg-1 {
+		height: 67px;
+		background-size: 56%;
+	}
+
+	.berries.berries-bg-2 {
+		height: 58px;
+		background-size: 56%;
+	}
+
+	.berries.berries-bg-3 {
+		height: 63px;
+		background-size: 56%;
+	}
+
+	.nav-menu li a:hover {
+		/*color: #0068b3;*/
+		/*background: url("../images/menu-act.png") 0 4px no-repeat;*/
+	}
+
+	.nav-menu li.active a {
+		/*background: url("../images/menu-act.png") 0 4px no-repeat;*/
+	}
+	.copyright {
+		margin-top: 50px;
+	}
+	.socio {
+		padding-top: 15%;
+		padding-left: 20%;
+	}
+	
+	.company-top {
+		max-width: 100%;
+		max-height: 80%;
+	}
+
+	.company-top img {
+		height: 100%;
+		width: auto;
+	}
+
+	.company-bottom{
+		height: 60%;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+
+	.company-bottom.diabets {
+		height: 50%
+	}
+
+	.company-bottom img{
+		height: 100%;
+		max-width: 100%;
+		display: block;
+	}
+
+	.text-wrap-block {
+		position: absolute;
+		top: 35px;
+		left: 35px;
+		padding-right: 35px;
+	}
+
+	.content-right-wrap{
+		padding-left: 11px;
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+
+	.title-company h2 {
+		font-size: 1.9em;
+	}
+
+	.title-company .text-title {
+		font-size: 1.2em;
+	}
+
+	.inform-text {
+		margin-top: 30px;
+	}
+
+	.inform-text p {
+		font-size: 1.2em;
+		line-height: 1.3em;
+	}
+
+	.diplome {
+		margin-top: 25px;
+	}
+
+	.diplome li span {
+		display: inline-block;
+		height: 130px;
+		width: 120px;
+		
+	}
+
+	.diplome .diplome1_icon {
+		background: url("../images/diplome-1.png") no-repeat;
+		background-size: 80%;
+	}
+
+	.diplome .diplome2_icon {
+		background: url("../images/diplome-2.png") no-repeat;
+		background-size: 80%;
+	}
+
+	.diplome .diplome3_icon {
+		background: url("../images/diplome-3.png") no-repeat;
+		background-size: 80%;
+	}
+
+	.diplome .diplome4_icon {
+		background: url("../images/diplome-4.png") no-repeat;
+		background-size: 80%;
+
+	}
+
+	.company-bottom.contact-bottom {
+		max-height: 60%;
+		height: 60%;
+		max-height: 300px;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+
+	.contact-info{
+		position: absolute;
+		top: 20px;
+		left: 80px;
+		padding-right: 150px;
+
+	}
+	.contact-info h3{
+		text-align: left;
+		font-size: 2.2em;
+		text-transform: uppercase;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		color: #def6c2;
+	}
+	.contact-info p{
+		color: #fff;
+		font-size: 1.3em;
+		margin-top: 10px;
+	}
+	.adress{
+		margin-top: 25px;
+
+	}
+	.contact-info .adress p{
+		margin-top: 7px;
+		color: #def6c2;
+		font-size: 1.3em;
+		font-family: 'Myriad Pro';
+	}
+	.contact-info p.title-adress{
+		margin-bottom: 10px;
+	}
+
+	.company-top.img-resize {
+		max-width: 100%;
+		height: 40%
+	}
+
+	.company-bottom.mission-img-resize {
+		height: 60%;
+		position: absolute;
+		bottom: 0;
+	}
+	.company-top.img-resize img{
+		max-height: none;
+		max-width:  100%;
+		height: auto;
+	}	
+
+	.left-block .scroll-pane, .right-block .scroll-pane {
+	 	height: 215px;
+	}
+
+	.inform-text.inform-text-life {
+		margin-top: 10px;
+	}
+
+	.inform-text.inform-text-life p {
+		font-size: 1em;
+		line-height: 1.45em;
+		margin-top: 8px;
+	}
+
+	
+
+	.info-item{
+		width: 280px;
+		display: block;
+		float: left;
+		margin-right: 30px;
+		margin-top: 20px;
+	}
+
+	.prod-quality {
+		width: 260px;
+		margin-right: 0;
+	}
+
+	.health-research {
+		width: 270px;
+	}
+
+	.info-item h2 {
+		font-size: 1.2em;
+	}
+	.mission-img-resize .text-wrap-block {
+		top: 20px
+	}
+
+	.info-item p {
+		font-size: 1em;
+		line-height: 1.5em;
+		margin-top: 20px;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 14px;
+	}
+
+	.product-depiction {
+		top: 15px;
+	}
+
+	.bottom-bg-mini {
+		position: absolute;
+		top: 360px;
+		left: 0;
+		height: 420px;
+		width: 100%;
+		z-index: 3;
+		background: url("../images/bot-min-bg-1.png") no-repeat;
+		background-size: contain;
+	}
+
+	.left-wrap-block .buttle {
+		width: 80%;
+		height: 200px;
+		position: absolute;
+		top: 130px;
+		left: 32% !important;
+		z-index: 2;
+	}
+
+
+	
+	.left-wrap-block .buttle img {
+		max-width: 40%!important;
+	}
+
+	.left-wrap-block .more {
+		top: 480px;
+		left: 24%;
+	}
+
+	.left-wrap-block .berries {
+		width: 100%;
+		height: 65px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 23%;
+		z-index: 5;
+		background: url("../images/berries-2.png") no-repeat;
+		background-size: 50%;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 11px;
+	}
+
+	.advantage {
+		margin-top: 20px;
+		width: 50%;
+		padding: 0 10px;
+	}
+
+	.advantage p {
+		font-size: 1em;
+		margin-top: 10px;
+	}
+
+	.advantage span {
+		margin-bottom: 10px;
+	}
+
+	.advantage.advantage-justify {
+		margin-top: 10px;
+	}
+
+		#change_text p {
+	color: white;
+	font-size: 1.3em;
+	line-height: 1.4em;
+	margin-top: 10px;
+	text-align: justify;
+	}
+
+	.our_solution {
+		position: absolute;
+		top:0;
+	}
+
+	#change_text .our_solution p {
+		font-size: 1.1em;
+		line-height: 1.2em;
+	}
+
+	.company-top.diabets {
+		min-height: 50%
+
+	}
+	.company-top.diabets img{
+		width: 100%;
+		min-height: 100%
+	}
+	.company-bottom.diabets {
+		max-height: 50%;
+		max-width: 100%;
+		position: relative;
+	}
+
+	.diabets-bottom-block .inform-text {
+		margin-top: 5px;
+	}
+
+	h2.nav_button_sol {
+		margin-top: 10px;
+	}
+
+
+}
+@media screen and (max-width:1280px) and (max-height: 650px) {
+
+	.buttle {
+		left: 9%!important;
+		top: 80px;
+		width: 30%;
+		height: 78%;
+	}
+
+	.buttle img {
+	max-width: 30%;
+	}	
+	.bottom-bg {
+		top: 0;
+		left: -7.5%;
+	}
+	.haracteristik {
+		top: 320px;
+		width: 33%;
+		left: 370px;
+		z-index: 5;
+	}
+
+
+	.haracteristik.blueberry {
+		width: 25%;
+		left: 40%;
+		top: 260px;
+	}
+
+	.haracteristik.cranberry {
+		width: 30%;
+		left: 36%;
+		top: 295px;
+	}
+
+	.haracteristik.blueberry ul li {
+		background: url("../images/bg-hr.png") no-repeat 0 4px;
+		padding-top: 6px;
+	}
+
+
+	.more {
+		left: 5%;
+		top: 410px;
+	}
+
+	.more .title-menu {
+		display: block;
+		color: #fff;
+		text-transform: uppercase;
+		font-size: 1.5em;
+		line-height: 1.2em;
+		padding-bottom: 10px;
+	}
+	.berries {
+		left: 7.5%
+	}
+
+	.berries.berries-bg-1 {
+		height: 67px;
+		background-size: 56%;
+	}
+
+	.berries.berries-bg-2 {
+		height: 58px;
+		background-size: 56%;
+	}
+
+	.berries.berries-bg-3 {
+		height: 63px;
+		background-size: 56%;
+	}
+
+}	
+
+@media screen and (max-width:1024px) {
+
+	.buttle{
+		width: 12%;
+		height: 48%;
+		position: absolute;
+		left: 7%!important;
+		top: 23%;
+		z-index: 2;
+	}
+
+	.buttle img {
+		max-width: 60%
+	}
+
+	.bottom-bg {
+		position: absolute;
+		top: 0;
+		width: 100%;
+		height: 743px;
+		left: -11%;
+		z-index: 3;
+	}
+
+	.more {
+	    text-align: center;
+		position: absolute;
+		top: 66%;
+		left: 2.1%;
+		z-index: 5;
+		height: 15%;
+		width: 17%;
+    }
+
+    .berries.berries-bg-1{
+		background: url("../images/berries-1.png") no-repeat 0 0;
+		height: 40px;
+		background-size: 40%
+	}
+
+
+	.berries.berries-bg-2{
+		background: url("../images/berries-2.png") no-repeat 0 0;
+		height: 38px;
+		background-size: 38%;
+		left:6.3%!important;
+	}
+
+	.berries.berries-bg-3{
+		background: url("../images/berries-3.png") no-repeat 0 0;
+		height: 40px;
+		background-size: 40%
+	}
+
+	.berries {
+		width: 23%;
+		height: 105px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 6%!important;
+		z-index: 5;
+	}
+
+	.bg_description a img {
+		width: 15%;
+		max-width: 15%;
+		max-height: 25%;
+	}
+
+	.haracteristik{
+		position: absolute;
+		top: 330px;
+		width: 25%!important;
+		left: 290px!important;
+		z-index: 5;
+	}
+
+	.haracteristik ul li {
+		font-size: 0.9em;
+		background: url("../images/bg-hr.png") no-repeat 0 8px;
+		display: block;
+		padding-left: 20px;
+		line-height: 1.2em;
+		padding-top: 7px;
+		background-size: 13px;
+	}
+
+	.haracteristik.blueberry {
+		width: 22%!important;
+		left: 30% !important;
+		top: 285px;
+	}
+
+	.haracteristik.cranberry {
+		width: 30%;
+		left: 36%;
+		top: 305px;
+	}
+
+	
+	.haracteristik.blueberry ul li {
+		background: url("../images/bg-hr.png") no-repeat 0 5px;
+		background-size: 13px;
+		line-height: 1.1em;
+	}
+
+	.lang {
+		margin-top: 22px
+	}
+
+	.lang li a {
+		font-size: 1.2em;
+	}
+
+	.logo {
+		margin-top: 22px
+	}
+
+	.logo img {
+		max-width: 70%
+	}
+
+	.nav-menu {
+		padding-top: 70px
+	}
+
+	.nav-menu li {
+		padding-bottom: 18px
+	}
+
+	.nav-menu li a {
+		text-decoration: none;
+		color: #6f824b;
+		font-size: 1.3em;
+		padding-left: 7%;
+	}
+
+	.nav-menu li a:hover {
+		/*color: #0068b3;*/
+		/*background: url("../images/menu-act-resize.png") 0 5px no-repeat;*/
+	}
+
+	.socio {
+		padding-top: 18%;
+		padding-left: 20%;
+	}
+
+	.socio li {
+		display: inline-block;
+		background: url("../images/socio-sprite-resize.png") no-repeat;
+		width: 34px;
+		height: 35px;
+	}
+
+	.socio li.fb {
+		background-position: -34px 0;
+	}
+
+	.socio li.google {
+		background-position: -67px 0;
+	}
+
+	.socio li.youtube {
+		background-position: -101px 0;
+	}
+
+	.copyright p {
+		font-size: 0.9em
+	}
+
+	.left-sidebar {
+		width: 25%;
+		position: fixed;
+		top: 0;
+		left: 0;
+	}
+
+	.nav-menu li{
+		padding-bottom: 10px!important;
+	}
+	
+	.nav-menu li.active a{
+		color: #0068b3;
+		/*background: url("../images/menu-act-resize.png") 0 6px no-repeat!important;*/
+	}
+	.content-right-wrap {
+		z-index: 3;
+	}
+
+	.company-top {
+		max-width: 100%;
+		max-height: 80%;
+	}
+
+	.company-top img {
+		height: 100%;
+		width: auto;
+	}
+
+	.company-bottom{
+		height: 60%;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+
+	.company-bottom img{
+		height: 100%;
+		max-width: 100%;
+		display: block;
+	}
+
+	.text-wrap-block {
+		position: absolute;
+		top: 15px;
+		left: 35px;
+		padding-right: 35px;
+	}
+
+	.content-right-wrap{
+		padding-left: 11px;
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+
+	.title-company h2 {
+		font-size: 1.5em;
+	}
+
+	.title-company .text-title {
+		font-size: 1.1em;
+	}
+
+	.inform-text {
+		margin-top: 25px;
+	}
+
+	.inform-text p {
+		font-size: 1.1em;
+		line-height: 1.3em;
+	}
+
+	.diplome {
+		margin-top: 25px;
+	}
+
+	.diplome li span {
+		display: inline-block;
+		height: 100px;
+		width: 120px;
+		
+	}
+
+	.diplome .diplome1_icon {
+		background: url("../images/diplome-1.png") no-repeat;
+		background-size: 70%;
+	}
+
+	.diplome .diplome2_icon {
+		background: url("../images/diplome-2.png") no-repeat;
+		background-size: 70%;
+	}
+
+	.diplome .diplome3_icon {
+		background: url("../images/diplome-3.png") no-repeat;
+		background-size: 70%;
+	}
+
+	.diplome .diplome4_icon {
+		background: url("../images/diplome-4.png") no-repeat;
+		background-size: 70%;
+
+	}
+
+	.contact-info{
+		position: absolute;
+		top: 15px;
+		left: 80px;
+		padding-right: 150px;
+
+	}
+	.contact-info h3{
+		text-align: left;
+		font-size: 2em;
+		text-transform: uppercase;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		color: #def6c2;
+	}
+	.contact-info p{
+		color: #fff;
+		font-size: 1.3em!important;
+		margin-top: 7px;
+		line-height: 1.4em;
+	}
+	.adress{
+		margin-top: 15px;
+
+	}
+	.contact-info .adress p{
+		margin-top: 0;
+		color: #def6c2;
+		font-size: 1.3em!important;
+		font-family: 'Myriad Pro';
+	}
+	.title-adress{
+		margin-bottom: 10px;
+	}
+	
+
+	.left-block .scroll-pane, .right-block .scroll-pane {
+	 	height: 215px;
+	}
+
+	.left-block h3, .right-block h3 {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	
+
+    html, body{
+		overflow: auto;
+		/*min-height: 900px;*/
+	}
+	.title-company .text-title {
+		padding-top: 0;
+		font-size: 0.9em;
+	}
+
+		.inform-text.inform-text-life {
+		margin-top: 15px;
+	}
+
+	.inform-text.inform-text-life p {
+		font-size: 0.85em;
+		line-height: 1.7em;
+		margin-top: 5px;
+	}
+	.title-company {
+		height: 40px;
+	}
+
+	.company-bottom.mission-img-resize {
+		height: 58%;
+		position: absolute;
+		bottom: 0;
+	}
+
+	.info-item{
+		width: 215px;
+		display: block;
+		float: left;
+		margin-right: 30px;
+		margin-top: 20px;
+	}
+
+	.prod-quality {
+		width: 190px;
+		margin-right: 0;
+	}
+
+	.health-research {
+		width: 215px;
+	}
+
+	.info-item h2 {
+		font-size: 1em;
+	}
+
+	.mission-img-resize .text-wrap-block {
+		top: 15px
+	}
+
+	.info-item p {
+		font-size: 1em;
+		line-height: 1.5em;
+		margin-top: 15px;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 14px;
+	}
+
+	.bottom-bg-mini {
+		position: absolute;
+		top: 410px;
+		left: 0;
+		height: 420px;
+		width: 100%;
+		z-index: 3;
+		background: url("../images/bot-min-bg-1.png") no-repeat;
+		background-size: contain;
+	}
+
+	.left-wrap-block .buttle {
+		width: 70%;
+		height: 58%;
+		position: absolute;
+		top: 22%;
+		left: 28% !important;
+		z-index: 2;
+	}
+
+	.left-wrap-block .buttle img {
+		max-width: 60%!important;
+	}
+
+	.left-wrap-block .more {
+		top: 80%!important;
+		left: 19%;
+	}
+
+	.left-wrap-block .berries {
+		width: 100%;
+		height: 50px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 23%!important;
+		z-index: 5;
+		background: url("../images/berries-2.png") no-repeat;
+		background-size: 50%;
+	}
+
+	.left-wrap-block .berries.berries-bg-3 {
+		height: 50px;
+
+	}
+
+	.left-wrap-block .berries.berries-bg-1 {
+		height: 50px;
+
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 11px;
+	}
+
+	.advantage {
+		margin-top: 20px;
+		width: 43%;
+		padding: 0 10px;
+	}
+
+	.advantage p {
+		font-size: 0.9em;
+		margin-top: 5px;
+	}
+
+	.advantage.advantage-justify {
+		margin-top: 15px;
+	}
+
+	.product-depiction {
+		top: 20px;
+	}
+		
+	.product-depiction h3 {
+		font-size: 1.7em;
+	}	
+
+	.feedback {
+		margin-top: 30px;
+	}
+
+	#change_text p {
+		color: white;
+		font-size: 1.1em;
+		line-height: 1.3em;
+		margin-top: 5px;
+		text-align: justify;
+	}
+
+	.our_solution {
+		position: absolute;
+		top:0;
+	}
+
+	#change_text .our_solution p {
+		font-size: 1em;
+		line-height: 1.1em;
+	}
+	.company-top.contact-top {
+		height: 60%!important;
+
+	}
+
+	.company-top.contact-top img {
+		min-width: 100%;
+		width:100%;
+		
+	}
+
+	.diabets-bottom-block .title-company .text-title {
+		font-size: 0.7em;
+	}
+	.diabets-bottom-block .inform-text p {
+		font-size: 1em;
+		line-height: 1.1em;
+	}
+	h2.nav_button_sol {
+		margin-top: 20px!important;
+	}
+
+}
+
+@media screen and (max-width:1024px) and (max-height:650px) {
+
+	.buttle{
+		width: 12%;
+		height: 48%;
+		position: absolute;
+		left: 7%!important;
+		top: 140px;
+		z-index: 2;
+	}
+
+	.buttle img {
+		max-width: 60%
+	}
+
+	.bottom-bg {
+		position: absolute;
+		top: 0;
+		width: 100%;
+		height: 743px;
+		left: -11%;
+		z-index: 3;
+	}
+
+	.more {
+	    text-align: center;
+		position: absolute;
+		top: 410px;
+		left: 2.1%;
+		z-index: 5;
+		height: 15%;
+		width: 17%;
+    }
+
+   
+	.haracteristik{
+		position: absolute;
+		top: 330px;
+		width: 25%!important;
+		left: 290px!important;
+		z-index: 5;
+	}
+
+	.haracteristik ul li {
+		font-size: 0.9em;
+		background: url("../images/bg-hr.png") no-repeat 0 8px;
+		display: block;
+		padding-left: 20px;
+		line-height: 1.2em;
+		padding-top: 7px;
+		background-size: 13px;
+	}
+
+	.haracteristik.blueberry {
+		width: 22%!important;
+		left: 30% !important;
+		top: 285px;
+	}
+
+	.haracteristik.cranberry {
+		width: 30%;
+		left: 36%;
+		top: 305px;
+	}
+
+	
+	.haracteristik.blueberry ul li {
+		background: url("../images/bg-hr.png") no-repeat 0 5px;
+		background-size: 13px;
+		line-height: 1.1em;
+	}
+
+	.socio {
+		padding-top: 10px;
+	} 
+
+	ul.accordion li.product {
+		padding-left: 16px;
+		margin-left: -16px;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 10px;
+	}
+	.content-right-wrap {
+		padding-left: 10px;
+	}
+
+
+}
+
+@media screen and (max-width:1024px) and (max-height:480px) {
+
+.buttle{
+		width: 12%;
+		height: 48%;
+		position: absolute;
+		left: 7%!important;
+		top: 80px;
+		z-index: 2;
+	}
+
+	.buttle img {
+		max-width: 60%
+	}
+
+	.bottom-bg {
+		position: absolute;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		left: -11%;
+		z-index: 3;
+	}
+
+	.bottom-bg.bottom-bg-1 {
+		background: url("../images/text-bg-1.png") no-repeat 20% 20%, url("../images/text-bg-1.png") no-repeat 20% 20%;
+	}
+
+	.bottom-bg.bottom-bg-2 {
+		background: url("../images/text-bg-2.png") no-repeat 20% 20%, url("../images/text-bg-2.png") no-repeat 20% 20%;
+	}
+
+	.bottom-bg.bottom-bg-3 {
+		background: url("../images/text-bg-3.png") no-repeat 20% 20%, url("../images/text-bg-3.png") no-repeat 20% 20%;
+	}
+
+	.more {
+	    text-align: center;
+		position: absolute;
+		top: 320px;
+		left: 2.1%;
+		z-index: 5;
+		height: 15%;
+		width: 17%;
+    }
+
+   
+	.haracteristik{
+		position: absolute;
+		top: 270px;
+		width: 25%!important;
+		left: 290px!important;
+		z-index: 5;
+	}
+
+	.haracteristik ul li {
+		font-size: 0.9em;
+		background: url("../images/bg-hr.png") no-repeat 0 8px;
+		display: block;
+		padding-left: 20px;
+		line-height: 1.2em;
+		padding-top: 7px;
+		background-size: 13px;
+	}
+
+	.haracteristik.blueberry {
+		width: 22%!important;
+		left: 28% !important;
+		top: 245px;
+	}
+
+	.haracteristik.cranberry {
+		width: 30%;
+		left: 35%;
+		top: 250px;
+	}
+
+	
+	.haracteristik.blueberry ul li {
+		background: url("../images/bg-hr.png") no-repeat 0 5px;
+		background-size: 13px;
+		line-height: 1.1em;
+	}
+
+
+}
+
+@media screen and (max-width:1000px) { 
+
+}
+@media screen and (max-width:980px) {
+
+
+.bg_description {
+		z-index: 3
+	}
+
+	.nav-menu li a {
+		font-size: 1.1em;
+	}
+}	
+
+@media screen and (max-width:980px) and (orientation: portrait) {
+	.content-right-wrap.contact-wrap {
+		min-height: 100%
+	}
+
+	.fon-mask-left {
+		min-height: 850px:;
+	}
+
+	.wrapper.clearfix {
+		min-height: 850px;
+	}
+	
+	.wrapper_info {
+		min-height: 600px;
+	}
+	.wrapper-product {
+		min-height: 850px;
+	}
+
+	.left-sidebar {
+		/*position: fixed;*/
+	}
+
+	.buttle{
+		width: 12%;
+		height: 48%;
+		position: absolute;
+		left: 5%!important;
+		top: 700px;
+		z-index: 2;
+		width: 40%;
+	}
+
+	.buttle img {
+		max-width: 60%
+	}
+
+	.bottom-bg {
+		position: absolute;
+		top: 700px;
+		width: 100%;
+		height: 743px;
+		left: -11%;
+		z-index: 3;
+	}
+
+	.more {
+	    text-align: center;
+		position: absolute;
+		top: 1120px;
+		left: 2.1%;
+		z-index: 5;
+		height: 15%;
+		width: 17%;
+    }
+
+    .berries.berries-bg-1{
+		background: url("../images/berries-1.png") no-repeat 0 0;
+		height: 40px;
+		background-size: 40%
+	}
+
+
+	.berries.berries-bg-2{
+		background: url("../images/berries-2.png") no-repeat 0 0;
+		height: 38px;
+		background-size: 38%;
+		left:6.3%!important;
+	}
+
+	.berries.berries-bg-3{
+		background: url("../images/berries-3.png") no-repeat 0 0;
+		height: 40px;
+		background-size: 40%
+	}
+
+	.berries {
+		width: 23%;
+		height: 105px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 6%!important;
+		z-index: 5;
+	}
+
+	.bg_description a img {
+		width: 15%;
+		max-width: 15%;
+		max-height: 25%;
+	}
+
+	.haracteristik{
+		position: absolute;
+		top: 1030px;
+		width: 25%!important;
+		left: 290px!important;
+		z-index: 5;
+	}
+
+	.haracteristik ul li {
+		font-size: 0.9em;
+		background: url("../images/bg-hr.png") no-repeat 0 8px;
+		display: block;
+		padding-left: 20px;
+		line-height: 1.2em;
+		padding-top: 7px;
+		background-size: 13px;
+	}
+
+	.haracteristik.blueberry {
+		width: 22%!important;
+		left: 28% !important;
+		top: 990px;
+	}
+
+	.haracteristik.cranberry {
+		width: 30%;
+		left: 25%!important;
+		top: 1010px;
+	}
+
+	
+	.haracteristik.blueberry ul li {
+		background: url("../images/bg-hr.png") no-repeat 0 3px;
+		background-size: 13px;
+		line-height: 1em;
+		padding-top:5px;
+	}
+
+	.lang {
+		margin-top: 22px
+	}
+
+	.lang li a {
+		font-size: 1.2em;
+	}
+
+	.logo {
+		margin-top: 22px
+	}
+
+	.logo img {
+		max-width: 70%
+	}
+
+	.nav-menu {
+		padding-top: 70px
+	}
+
+	.nav-menu li {
+		padding-bottom: 18px
+	}
+
+	.nav-menu li a {
+		text-decoration: none;
+		color: #6f824b;
+		font-size: 1.3em;
+		padding-left: 7%;
+	}
+
+	.nav-menu li a:hover {
+		/*color: #0068b3;*/
+		/*background: url("../images/menu-act-resize.png") 0 5px no-repeat;*/
+	}
+
+	.socio {
+		/*padding-top: 18%;*/
+		padding-left: 20%;
+	}
+
+	.socio li {
+		display: inline-block;
+		background: url("../images/socio-sprite-resize.png") no-repeat;
+		width: 34px;
+		height: 35px;
+	}
+
+	.socio li.fb {
+		background-position: -34px 0;
+	}
+
+	.socio li.google {
+		background-position: -67px 0;
+	}
+
+	.socio li.youtube {
+		background-position: -101px 0;
+	}
+
+	.copyright p {
+		font-size: 0.9em
+	}
+
+
+	.nav-menu li{
+		padding-bottom: 10px!important;
+	}
+	
+	.nav-menu li.active a{
+		color: #0068b3;
+		/*background: url("../images/menu-act-resize.png") 0 6px no-repeat!important;*/
+	}
+	.content-right-wrap {
+		z-index: 3;
+	}
+
+	.company-top {
+		/*max-width: 100%;*/
+		/*max-height: 80%;*/
+	}
+
+	.company-top img {
+		height: 100%;
+		width: auto;
+	}
+
+	.company-top.img-resize {
+		max-width: 100%;
+		height: 19%;
+	}
+
+	.company-top.img-resize img{
+		width: 100%;
+		min-height: 0;
+		height: auto;
+	}
+
+
+
+	
+	.company-bottom.mission-img-resize {
+		height: 81%;
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		min-width: 69%;
+		max-width: none;
+		max-height: none;
+
+
+	}
+
+	.company-bottom.mission-img-resize img {
+		height: 100%;
+		width: 100%;
+		min-width: 100%;
+		min-height: 0;
+		max-width: 100%;
+		max-height: 100%;
+	}
+
+	.company-bottom{
+		height: 60%;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		z-index: 3;
+	}
+
+	.company-top.contact-top {
+		height: 100%!important;
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		min-width: 0!important;
+		max-width: none!important;
+		max-height: 100%;
+
+	}
+	.company-top.contact-top img {
+		width: 100%;
+		max-width: none;
+	}
+
+	.company-bottom.contact-bottom{
+		max-width: 100%;
+		height: 60%;
+		max-height: 60%;
+
+	}
+
+	.company-bottom img{
+		height: 100%;
+		max-width: 100%;
+		display: block;
+	}
+
+	.text-wrap-block {
+		position: absolute;
+		top: 15px;
+		left: 35px;
+		padding-right: 35px;
+	}
+
+	.content-right-wrap{
+		padding-left: 11px;
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+
+	.title-company h2 {
+		font-size: 1.5em;
+	}
+
+
+
+	.inform-text {
+		margin-top: 25px;
+	}
+
+	.inform-text p {
+		font-size: 0.9em;
+		line-height: 1.3em;
+	}
+
+	.diplome {
+		margin-top: 25px;
+	}
+
+	.diplome li span {
+		display: inline-block;
+		height: 100px;
+		width: 120px;
+		
+	}
+	.diplome li {
+		margin-right: 20px;
+	}
+
+	.diplome .diplome1_icon {
+		background: url("../images/diplome-1.png") no-repeat;
+		background-size: 70%;
+	}
+
+	.diplome .diplome2_icon {
+		background: url("../images/diplome-2.png") no-repeat;
+		background-size: 70%;
+	}
+
+	.diplome .diplome3_icon {
+		background: url("../images/diplome-3.png") no-repeat;
+		background-size: 70%;
+	}
+
+	.diplome .diplome4_icon {
+		background: url("../images/diplome-4.png") no-repeat;
+		background-size: 70%;
+
+	}
+
+	.contact-info{
+		position: absolute;
+		top: 15px;
+		left: 80px;
+		padding-right: 150px;
+
+	}
+	.contact-info h3{
+		text-align: left;
+		font-size: 2em;
+		text-transform: uppercase;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		color: #def6c2;
+	}
+	.contact-info p{
+		color: #fff;
+		font-size: 1.3em!important;
+		margin-top: 7px;
+		line-height: 1.4em;
+	}
+	.adress{
+		margin-top: 15px;
+
+	}
+	.contact-info .adress p{
+		margin-top: 0;
+		color: #def6c2;
+		font-size: 1.3em!important;
+		font-family: 'Myriad Pro';
+	}
+	.title-adress{
+		margin-bottom: 10px;
+	}
+	
+
+	.left-block .scroll-pane, .right-block .scroll-pane {
+	 	height: 215px;
+	}
+
+	.left-block h3, .right-block h3 {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	
+
+
+    html, body{
+    	/*min-height: 700px;*/
+		overflow: auto;
+		/*max-height: 800px;*/
+		/*min-height: 900px;*/
+	}
+	.title-company .text-title {
+		padding-top: 0;
+		font-size: 0.9em;
+		line-height: 1em;
+	}
+
+		.inform-text.inform-text-life {
+		margin-top: 15px;
+	}
+
+	.inform-text.inform-text-life p {
+		font-size: 0.85em;
+		line-height: 1.7em;
+		margin-top: 5px;
+	}
+	.title-company {
+		height: 40px;
+	}
+
+
+
+	.info-item{
+		width: 215px;
+		display: block;
+		float: left;
+		margin-right: 30px;
+		margin-top: 20px;
+	}
+
+	.prod-quality {
+		width: 190px;
+		margin-right: 0;
+	}
+
+	.health-research {
+		width: 215px;
+	}
+
+	.info-item h2 {
+		font-size: 1em;
+	}
+
+	.mission-img-resize .text-wrap-block {
+		top: 15px
+	}
+
+	.info-item p {
+		font-size: 1em;
+		line-height: 1.2em;
+		margin-top: 15px;
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 14px;
+	}
+
+	.bottom-bg-mini {
+		position: absolute;
+		top: 1170px;
+		left: 0;
+		height: 560px;
+		width: 100%;
+		z-index: 3;
+		background: url("../images/bot-min-bg-1.png") no-repeat;
+		background-size: contain;
+	}
+	.bottom-bg-mini.prod_cowberry {
+		background: url("../images/bot-min-bg-2.png") no-repeat, url("../images/bot-min-bg-2.png") no-repeat;
+		background-size: contain;
+
+	}
+
+	.left-wrap-block .buttle {
+		width: 100%;
+		height: 58%;
+		position: absolute;
+		top: 810px;
+		left: 22% !important;
+		z-index: 2;
+	}
+	.left-wrap-block .buttle img {
+		max-width: 60%!important;
+	}
+
+	.left-wrap-block .more {
+		left: 19%;
+		top:1250px!important;
+	}
+
+	.left-wrap-block .berries {
+		width: 100%;
+		height: 50px;
+		position: absolute;
+		display: block;
+		bottom: 0;
+		left: 23%!important;
+		z-index: 5;
+		background: url("../images/berries-2.png") no-repeat;
+		background-size: 50%;
+	}
+
+	.left-wrap-block .berries.berries-bg-2 {
+		background: url("../images/berries-2.png") no-repeat;
+		background-size: 50%;
+		height: 50px;
+
+	}
+
+	.left-wrap-block .berries.berries-bg-3 {
+		background: url("../images/berries-3.png") no-repeat;
+		background-size: 50%;
+		height: 50px;
+
+	}
+
+	.left-wrap-block .berries.berries-bg-1 {
+		background: url("../images/berries-1.png") no-repeat;
+		background-size: 50%;
+		height: 50px;
+
+	}
+
+	.content-right-wrap.product-cont {
+		padding-left: 11px;
+	}
+
+	.advantage {
+		margin-top: 15px;
+		width: 50%;
+		padding: 0 10px;
+	}
+
+	.advantage p {
+		font-size: 0.9em;
+		margin-top: 5px;
+	}
+
+	.advantage.advantage-justify {
+		margin-top: 15px;
+	}
+
+	.product-depiction {
+		top: 15px;
+	}
+		
+	.product-depiction h3 {
+		font-size: 1.7em;
+	}	
+
+	.feedback {
+		margin-top: 30px;
+	}
+
+	#change_text p {
+		color: white;
+		font-size: 1.3em;
+		line-height: 1.3em;
+		margin-top: 5px;
+		text-align: justify;
+	}
+
+	.our_solution {
+		position: absolute;
+		top:0;
+	}
+
+	#change_text .our_solution p {
+		font-size: 1em;
+		line-height: 1.1em;
+	}
+
+	.diabets-bottom-block .title-company .text-title {
+		font-size: 1.1em;
+	}
+	.diabets-bottom-block .inform-text p {
+		font-size: 1.1em;
+		line-height: 1.3em;
+	}
+
+	.left-sidebar {
+		/*position: absolute;*/
+	}
+
+	.company-top.company img {
+		height: auto;
+		max-height: none;
+		min-height: 0;
+	}
+
+	.company-top.company {
+		height: 12%;
+	}
+	.company-bottom.company {
+		height: 88%;
+	}
+
+	h2.nav_button_glob {
+		float: none;
+
+	}
+	h2.nav_button_sol {
+		margin-top: 100px!important;
+	}
+
+	.company-top.diabets {
+		height: 20%;
+		max-height:100%;
+		min-width: 100%;
+		width: 100%;
+		max-width: 100%;
+		min-height: 0;
+	}
+
+	.company-bottom.diabets {
+		height: 80%;
+		min-height: 0;
+		max-height: none;
+		min-width: 100%;
+		max-width: 100%;
+		width: 100%
+
+
+	}
+
+	.company-bottom.diabets img{
+		height: 100%;
+		min-height: 100%;
+		max-height: none;
+		min-width: 0;
+		max-width: none;
+		width: 100%;
+		
+
+	}
+	.company-top.diabets img {
+		height: auto;
+		max-height: 100%;
+		min-height: 0;
+		width: 100%;
+		min-width: 100%;
+		max-width: none;
+	}
+
+	
+	.diabets-bottom-block .title-company .text-title {
+		width: 100%
+	}
+
+	.company-top.contact-top {
+		height: 40%;
+		max-height: none;
+		min-height: 0;
+		min-width: 100%
+	}
+
+	h2.nav_button_sol {
+		margin-top: 50px;
+	}
+	
+
+	
+}
+@media screen and (max-width:890px) {
+/*
+	.left-sidebar {
+		width: 40%!important;
+	}*/
+	.nav-menu li a {
+		font-size: 1.1em;
+	}
+}
+
+@media screen and (max-width:680px) {
+
+	/*.left-sidebar {*/
+		/*width: 36%!important;*/
+	/*}*/
+}
+@media screen and (max-width:540px) {
+
+/*	.left-sidebar {
+		width:50%!important;
+	}*/
+
+	.wrapper-product .left-sidebar {
+		width:28%!important;
+	}
+}
+
+
