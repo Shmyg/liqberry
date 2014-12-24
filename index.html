@@ -3,10 +3,24 @@
 <head>
 	<meta charset="utf-8" />
 	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]> <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
 	<title>Liqberry - Formula of Life | Liqberry</title>
 	<meta name="keywords" content="" />
 	<meta name="description" content="Liqberry International offers unique natural products made using patented Liqberry technology for your health and longevity" />
 	<meta http-equiv='Page-Enter' content='revealTrans(Duration=1,Transition=12)'>
+	<!-- Added by Shmyg 01.12.2014 -->
+	<meta property="og:type" content="article"/>
+	<meta property="og:title" content="Liqberry - unique products for your health"/>
+	<meta property="og:site_name" content="Liqberry - Formula of Life"/>
+	<meta property="og:description" content="Do you want to live a healthier and richer life? Liqberry products are made for you!"/>
+	<meta property="og:image" content="http://www.liqberry.biz/images/Liqberry_logo.png"/>
+	<meta property="og:image:width" content="200" />
+	<meta property="og:image:height" content="200" />
+	<meta property="og:url" content="http://www.liqberry.biz"/>
 	<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
 	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<link href='http://fonts.googleapis.com/css?family=Roboto&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
@@ -17,16 +31,7 @@
 	<link href="css/jquery.jscrollpane.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
-	<div itemscope itemtype="http://schema.org/Organization"> 
-		<span itemprop="name">Liqberry International</span> 
-		Headquarters: 
-		<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-			<span itemprop="streetAddress">6, Polyovy prov.</span>,
-			<span itemprop="addressLocality">Kyiv</span>,
-			<span itemprop="addressCountry">Ukraine</span>.
-		</div>
-   		Phone: <span itemprop="telephone">+380(50)311-10-11</span>
-	</div>	
+</head>
 </head>
 
 <body>
@@ -35,12 +40,14 @@
 	<div class="wrapper clearfix">
 			<aside class="left-sidebar">
 				<div class="wrap-sidebar">
+					<!--
 					<div class="lang">
 						<ul>
 							<li><a href="#" class="active">EN</a></li>
 							<li><a href="#">FR</a></li>
 						</ul>
 					</div>
+					-->
 					<div class="logo">
 						<a href="index.html"><img src="images/logo4.png" alt="" /></a>
 					</div>
@@ -166,7 +173,17 @@
 	<script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script>
 	<script type="text/javascript" src="js/page-control.js"></script>
 	<script type="text/javascript" src="js/custom.js"></script>
+	<!--Google Analytics, added by Shmyg 01.12.2014-->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+		ga('create', 'UA-57244595-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	
 	<!--[if lt IE 10 ]>
 	<script type="text/javascript" src="js/placeholder.js"></script>
 	<![endif]-->

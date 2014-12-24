@@ -423,8 +423,16 @@ ul.accordion li.product .description{
 	width: 180px;
 }
 .diplome .diplome1_icon {
+	background: url("../images/diplome-1.png") no-repeat;
 }
 .diplome .diplome2_icon {
+	background: url("../images/diplome-2.png") no-repeat;
+}
+.diplome .diplome3_icon {
+	background: url("../images/diplome-3.png") no-repeat;
+}
+.diplome .diplome4_icon {
+	background: url("../images/diplome-4.png") no-repeat;
 }
 
 .mission-bottom-block{
