@@ -413,14 +413,14 @@ ul.accordion li.product .description{
 .diplome{
 	margin-top: 40px;
 }
-.diplome li{
+.diplome span{
 	display: inline-block;
 	margin-right: 40px;
 }
-.diplome li span {
+.diplome  span {
 	display: inline-block;
-	height: 239px;
-	width: 180px;
+	height: 212px;
+	width: 160px;
 }
 .diplome .diplome1_icon {
 }

@@ -6904,9 +6904,9 @@ a.uk-thumbnail:focus {
   height: auto;
 }
 .diplome a span {
-display: inline-block;
-height: 239px;
-width: 180px;
+/* display: inline-block;
+height: 213px;
+width: 160px; */
 }
 /*
  * Visibility
