@@ -312,7 +312,7 @@
 	}
 
 
-	.diplome span {
+	.diplome li span {
 		display: inline-block;
 		height: 150px;
 		width: 120px;
@@ -1272,7 +1272,7 @@
 	}
 
 
-	.diplome  span {
+	.diplome li span {
 		display: inline-block;
 		height: 143px;
 		width: 108px;
@@ -1765,7 +1765,7 @@
 		margin-top: 45px;
 	}
 
-	.diplome  span {
+	.diplome li span {
 		display: inline-block;
 		height: 170px;
 		width: 120px;
@@ -2161,7 +2161,7 @@
 		margin-top: 25px;
 	}
 
-	.diplome  span {
+	.diplome li span {
 		display: inline-block;
 		height: 130px;
 		width: 120px;
@@ -2736,7 +2736,7 @@
 		margin-top: 25px;
 	}
 
-	.diplome  span {
+	.diplome li span {
 		display: inline-block;
 		height: 100px;
 		width: 120px;
@@ -3511,13 +3511,13 @@
 		margin-top: 25px;
 	}
 
-	.diplome  span {
+	.diplome li span {
 		display: inline-block;
 		height: 100px;
 		width: 120px;
 		
 	}
-	.diplome span {
+	.diplome li {
 		margin-right: 20px;
 	}
 
